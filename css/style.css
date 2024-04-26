@@ -74,9 +74,9 @@ nav .wrap-nav{position:absolute; bottom:0px; right:0px; height: 37px;}
 
 .divider{background: url("../images/divider.png") repeat-x; height: 7px; width: 90%; margin: auto;}
 
-.block01 {margin:10px;}
-.block01 h2 { padding-top:30px; font-size: 30px; text-align: center; font-weight: normal;}
-.block01 p { padding: 10px 30px 30px 30px; font-size:20px; text-align:center; line-height:30px;}
+.block01 {margin:10px; }
+.block01 h2 { padding-top:30px; font-size: 30px; text-align: center; font-weight: normal; text-justify: inter-word;}
+.block01 p { padding: 10px 30px 30px 30px; font-size:20px; text-align:justify; line-height:30px;}
 
 .block02 {margin:30px 0; padding: 0 10px;}
 .block02 h2{font-size:20px; font-weight: normal;}

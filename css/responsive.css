@@ -1,16 +1,16 @@
 html {
-   -webkit-text-size-adjust: none;
+-webkit-text-size-adjust: none;
 }
 .video embed,
 .video object,
 .video iframe {
-   width: 100%;
-   height: auto;
+width: 100%;
+height: auto;
 }
 img{
 	max-width:100%;
 	height: auto;
-   	width: auto\9; /* ie8 */
+	width: auto\9; /* ie8 */
 }
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
